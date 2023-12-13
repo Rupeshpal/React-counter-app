@@ -17,6 +17,7 @@ function App() {
 
   return (
     <>
+    <h1>Merge section</h1>
       <div className="card text-center">
         <div className="card-header">
           <ul className="nav nav-pills card-header-pills">
